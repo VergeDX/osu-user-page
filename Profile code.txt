@@ -1,4 +1,5 @@
-[centre][b]Welcome to my user page ![/b][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/64584706_p0.png[/img][box=Always remember]Always remember
+[centre][b]Welcome to my user page ![/b]
+[box=Always remember]Always remember
 Play for fun, first
 Play for music, second
 and third, Playing for PP does not guarantee obtaining Skill, but playing for Skill guarantees PP
