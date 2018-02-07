@@ -1,5 +1,5 @@
 [centre]<3 osu! and people who play with me forever !
-[url=https://www.bilibili.com/][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/623x178.png[/img][/url]
+[url=https://www.bilibili.com/][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/osu623x178.png[/img][/url]
 
 [box=Always remember]Play for fun, first
 Play for music, second
