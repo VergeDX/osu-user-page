@@ -5,6 +5,9 @@
 Play for music, second
 and third, Playing for PP does not guarantee obtaining Skill, but playing for Skill guarantees PP
 --By [profile]Rohulk[/profile][/box]
+[box=About My New Username]I love [profile]Yaong[/profile]
+And I also want to become he
+So I will going to work hard!!!!!![/box]
 [box=Skin]2017.11.03 Updated
 https://pan.baidu.com/s/1boYYQPx
 --By [profile]Yukino Miko[/profile][/box]
