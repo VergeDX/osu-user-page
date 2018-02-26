@@ -1,4 +1,4 @@
-[centre]<3 osu! and people who play with me forever !
+﻿[centre]<3 osu! and people who play with me forever !
 [img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/osu623x178.png[/img]
 
 [box=Always remember]Play for fun, first
