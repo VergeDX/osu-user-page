@@ -13,6 +13,8 @@ https://pan.baidu.com/s/1yj_TQWluvAzvn6Now3QrWA
 password:p4ya
 --By [profile]Yukino Miko[/profile][/box]
 [box=Contact me][url=https://space.bilibili.com/10857751/#/][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/icon/Bilixbili.png[/img][/url][url=https://discordapp.com/invite/meMkfEG][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/icon/Disxcord.png[/img][/url][url=https://gist.github.com/VergeDX/dbdce423954d98bdebdec95a57602f2f][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/icon/Exmail.png[/img][/url][url=https://github.com/VergeDX][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/icon/Gitxhub.png[/img][/url][url=http://wpa.qq.com/msgrd?v=3&uin=1339638753&site=qq&menu=yes][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/icon/QxQ.png[/img][/url][url=https://steamcommunity.com/profiles/76561198181253235][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/icon/Sxteam.jpg[/img][/url][/box]
-[box=Memories]2018/2/4   Achieve 3000pp
+[box=Memories]2018/4/4   Lv.99
+
+2018/2/4   Achieve 3000pp
 And become osu!supporter[/box]
 [url=https://info.flagcounter.com/YQaO][img]https://s11.flagcounter.com/mini/YQaO/bg_FFFFFF/txt_000000/border_FC7299/flags_0/[/img][/url][/centre]
