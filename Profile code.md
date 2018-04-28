@@ -1,5 +1,5 @@
 [centre]<3 osu! and people who play with me forever !
-[img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/osu623x178.png[/img]
+[img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/unicorn.png[/img]
 
 [box=Always remember]Play for fun, first
 Play for music, second
