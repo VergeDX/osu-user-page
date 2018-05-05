@@ -1,6 +1,7 @@
 [centre]<3 osu! and people who play with me forever !
 [img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/unicorn.png[/img]
 
+[box=cp][url=https://osu.ppy.sh/u/6798318][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/cp.png[/img][/url][url=https://osu.ppy.sh/u/8650057][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/me.png[/img][/url][/box]
 [box=Always remember]Play for fun, first
 Play for music, second
 and third, Playing for PP does not guarantee obtaining Skill, but playing for Skill guarantees PP
