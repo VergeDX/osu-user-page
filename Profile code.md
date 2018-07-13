@@ -1,7 +1,9 @@
 [b][centre]<3 osu! and people who play with me forever !
 [img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/unicorn.png[/img]
 
-[box=cp][url=https://osu.ppy.sh/u/6798318][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/cp.png[/img][/url][url=https://osu.ppy.sh/u/8650057][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/me.png[/img][/url]
+[box=窝的小伙伴们w][url=https://osu.ppy.sh/users/10938938][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/P1.jpg[/img][/url][url=https://osu.ppy.sh/users/6798318][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/P2.jpg[/img][/url]
+[url=https://osu.ppy.sh/users/5846727][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/P3.jpg[/img][/url][url=https://osu.ppy.sh/users/8650057][img]https://raw.githubusercontent.com/VergeDX/osu-user-page/master/image/P4.jpg[/img][/url]
+
 
 把小卡按在地上摩擦.jpg
 
